@@ -1,8 +1,3 @@
-# Customer-Segmentation-on-Credit-Card-Dataset
-
-Here is the complete `README.md` file in Markdown format:
-
-```markdown
 # Credit Card Customer Segmentation Project
 
 ## Overview
